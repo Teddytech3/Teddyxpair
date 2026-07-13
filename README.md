@@ -1,2 +1,2 @@
-bot mini
+Pair Site
 # [D E P L O Y](https://dashboard.heroku.com/new?template=https://github.com/Teddytech3/Teddyxpair)
